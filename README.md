@@ -25,17 +25,17 @@ Execute the program using runserver command.
 
 ## PROGRAM
 '''
-<html>
+<<html>
 <head>
 <title>Slot Timetable</title>
 </head>
 <body>
 <center>
-<img src="/static/logo.png" height="100" width="540">
+<img src="static/logo.png " height="100" width="540">
 </center>
 <br>
 <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
-I<caption><b>SLOT TIME TABLE DHANUSH M (25014751)</b></caption>
+I<caption><b>SLOT TIME TABLE Kavya A (25012449)</b></caption>
 <tr align="center">
 <th bgcolor="yellow">Day/Time</th>
 <th bgcolor="yellow">Monday</th>
@@ -122,6 +122,7 @@ I<caption><b>SLOT TIME TABLE DHANUSH M (25014751)</b></caption>
 </body>
 </html>
 '''
+
 
 
 ## OUTPUT
