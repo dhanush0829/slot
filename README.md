@@ -125,7 +125,7 @@ I<caption><b>SLOT TIME TABLE DHANUSH M (25014751)</b></caption>
 
 
 ## OUTPUT
-![alt text](logo.png)
+<img width="954" height="945" alt="Screenshot 2025-12-09 185609" src="https://github.com/user-attachments/assets/a71c5189-9a04-40d1-bdba-e49880630a5e" />
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
